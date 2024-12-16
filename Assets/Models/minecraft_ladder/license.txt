@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft ladder
+* source:	https://sketchfab.com/3d-models/minecraft-ladder-bb5b64935ee34d149a48628fab2cf261
+* author:	timmyyom36 (https://sketchfab.com/timmyyom36)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft ladder" (https://sketchfab.com/3d-models/minecraft-ladder-bb5b64935ee34d149a48628fab2cf261) by timmyyom36 (https://sketchfab.com/timmyyom36) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
