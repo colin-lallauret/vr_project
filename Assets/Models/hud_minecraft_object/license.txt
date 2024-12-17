@@ -1,0 +1,11 @@
+Model Information:
+* title:	HUD Minecraft Object
+* source:	https://sketchfab.com/3d-models/hud-minecraft-object-78f5c0ed1f5b4c7498c29dfde096c8cc
+* author:	JDanielHE (https://sketchfab.com/JDanielHE)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HUD Minecraft Object" (https://sketchfab.com/3d-models/hud-minecraft-object-78f5c0ed1f5b4c7498c29dfde096c8cc) by JDanielHE (https://sketchfab.com/JDanielHE) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
